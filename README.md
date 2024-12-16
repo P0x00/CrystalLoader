@@ -2,7 +2,7 @@
 <p align="center">
   <img  src="https://github.com/user-attachments/assets/c9f7bf16-c2d5-4d8d-ba22-008d2bd367b7">
 </p>
-Offensive Crystal collection repo based on https://crystal-lang.org - WIP 
+Offensive Crystal collection repo based on https://crystal-lang.org - WiP 
 
 ---
 ### CrystalLoader.cr
