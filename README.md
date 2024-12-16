@@ -7,7 +7,7 @@ Offensive Crystal collection repo based on https://crystal-lang.org - WIP
 ---
 ### CrystalLoader.cr
 Basic Shellcode Loader using Crystal as a PoC. <br>
-Bypasses MDE and Elastic EDR at time of writing (14/12/2024). Elastic still flags on msfvenom shellcode execution *AFTER* it ran, improvements and variants are WiP.
+Bypasses MDE and Elastic EDR at time of writing (14/12/2024). Elastic still flags on msfvenom shellcode execution *AFTER* it ran based on current stack, improvements and variants are WiP.
 
 ### Compiling
 ```
